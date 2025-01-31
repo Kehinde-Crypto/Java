@@ -1,3 +1,4 @@
+// Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. This process is repeated until the list is sorted.
 public class bubblesort {
   public static void main(String[] args) {
     int arr[] = { 1, 2, 3, 4, 5, 6 };
